@@ -17,13 +17,13 @@
 </div>
 
 * 🌲 I have 14 years old
-* 🔥 My computer is not good
-* 💀 I like cheating in some games
+* 🤖 I'm learning about task automation in python
 * 🐍 I'm learning and getting more and more interested in python.
 
 ### 𝙷𝚘𝚠 𝚌𝚊𝚗 𝚢𝚘𝚞 𝚏𝚒𝚗𝚍 𝚖𝚎?
 
 * gamer_0572#4843 (I'm quite active on my discord)
+* AurielioJr@gmail.com (My commercial email)
 * [gamer_0572](https://www.youtube.com/channel/UCBBmwykhQOE3SJCkhu5On4w) (My youtube channel)
 * [Al4ska](https://steamcommunity.com/profiles/76561198841503180) (My steam profile)
 
