@@ -25,7 +25,7 @@
 * gamer_0572#4843 (I'm quite active on my discord)
 * AurielioJr@gmail.com (My commercial email)
 * [gamer_0572](https://www.youtube.com/channel/UCBBmwykhQOE3SJCkhu5On4w) (My youtube channel)
-* [al4sk4s](https://www.youtube.com/channel/UC4tIXERSaJeIsRW_ztHKheA) (My other channel)
-* [Al4ska](https://steamcommunity.com/profiles/76561198841503180) (My steam profile)
+* [al4sk4s fun projects](https://www.youtube.com/channel/UC4tIXERSaJeIsRW_ztHKheA) (My other channel)
+* [al4sk4s](https://steamcommunity.com/id/al4sk4s/) (My steam profile)
 
 ![Snake animation](https://github.com/al4sk4s/al4sk4s/blob/output/github-contribution-grid-snake.svg)
