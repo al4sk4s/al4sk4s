@@ -16,7 +16,7 @@
   </a>
 </div>
 
-* 🌲 I'm 15 years old
+* 🌲 I'm 16 years old
 * 🤖 I'm learning about task automation in python
 * 🐍 I'm learning and getting more and more interested in python.
 
