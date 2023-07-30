@@ -10,15 +10,17 @@
 </div>
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎:
+
 <div style="display: inline_block"><br>
   <a href="https://github.com/al4sk4s">
-  <img align="right" alt="Al4sk4-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/906423523113828382/926550885914533908/alaskagub.png?width=676&height=676">
+  <img align="right" alt="Al4sk4-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/913615138299465728/1135063591255556126/02da65e1e4b394ca744078b6ab27e013_1.png?width=676&height=676">
   </a>
 </div>
 
+
 * 🌲 I'm 16 years old
-* 🤖 I'm learning about task automation in python
-* 🐍 I'm learning and getting more and more interested in python.
+* 🤖 Learning about life itself and python
+* 🐍 I love python
 
 ### 𝙷𝚘𝚠 𝚌𝚊𝚗 𝚢𝚘𝚞 𝚏𝚒𝚗𝚍 𝚖𝚎?
 
@@ -29,4 +31,7 @@
 * [al4sk4s](https://steamcommunity.com/id/al4sk4s/) (My steam profile)
 * [@al4sk4s](https://twitter.com/al4sk4s) (My Twitter)
 
+<!--
 ![Snake animation](https://github.com/al4sk4s/al4sk4s/blob/output/github-contribution-grid-snake.svg)
+-->
+
