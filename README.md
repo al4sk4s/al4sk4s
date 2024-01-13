@@ -18,7 +18,7 @@
 </div>
 
 
-* 🌲 I'm 16 years old
+* 🌲 I'm 17 years old
 * 🤖 Learning about life itself and python
 * 🐍 I love python
 
