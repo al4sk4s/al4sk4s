@@ -4,7 +4,7 @@
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/al4sk4s">
-  <img align="right" alt="al4sk4s-pic" height="100" src="https://cdn.discordapp.com/attachments/906423523113828382/926550885914533908/alaskagub.png?width=676&height=676&ex=67880641&is=6786b4c1&hm=7d1e5013dd7e393addd60b05de14854d3e4d89f8b1ba3ce355b2b5f9880fefe9&">
+  <img align="right" alt="al4sk4s-pic" height="100" src="https://raw.githubusercontent.com/al4sk4s/al4sk4s/refs/heads/main/alaskagub.png">
   </a>
 </div>
 
