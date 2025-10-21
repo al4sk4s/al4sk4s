@@ -1,23 +1,17 @@
-# 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 a𝚕𝟺𝚜𝚔𝚊'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋!
 
-## 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=@al4sk4s;Auriéio.+R.+S.+Júnior)](https://git.io/typing-svg)
 
-<div style="display: inline_block"><br>
-  <a href="https://github.com/al4sk4s">
-  <img align="right" alt="al4sk4s-pic" height="100" src="https://raw.githubusercontent.com/al4sk4s/al4sk4s/refs/heads/main/alaskagub.png">
-  </a>
-</div>
+<p align="center">
+  🗓️ 18 years old • 📚 Studious person • 👾 Love doing code
+</p>
 
-* 🌲 I'm 18 years old
+---
 
-* 🐍 Learning about life and python
+Hii, welcome to my github! I'm passionate about technology, creating things from scratch and play some games.
 
-* 🤖 I love automation
+*Software Engineering - UFLA.*
 
-## 𝙷𝚘𝚠 𝚌𝚊𝚗 𝚢𝚘𝚞 𝚏𝚒𝚗𝚍 𝚖𝚎?
-
-## Socials
-<p align="left">
+<p align="center">
   <a href="https://discord.com/users/359163391375441920" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&link=https://discord.com/users/359163391375441920" alt="Discord"/>
   </a>
