@@ -3,7 +3,7 @@
 This is a GitHub **profile repository** (`al4sk4s/al4sk4s`). Its `README.md` is shown on the user's GitHub profile. There is no build, test or app code.
 
 ## Files
-- `README.md` — the profile page (HTML + Markdown, centered header, typing SVG, social badges).
+- `README.md` — the profile page (skull floated right, lowercase "about" blockquote, flat stack badges, social badges).
 - `.github/workflows/update-age.yml` — runs every Jan 12 (and on manual dispatch) and rewrites the age.
 - `alaskagub.png` — image asset.
 
