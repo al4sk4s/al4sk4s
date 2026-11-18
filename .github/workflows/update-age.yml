@@ -1,0 +1,25 @@
+name: Update age
+
+on:
+  schedule:
+    - cron: "0 3 12 1 *" # every Jan 12
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bump age in README
+        run: |
+          age=$(( $(date +%Y) - 2007 )) # born 2007-01-12
+          sed -i "s|<!--AGE-->[0-9]*<!--/AGE-->|<!--AGE-->$age<!--/AGE-->|" README.md
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -am "chore: happy birthday, now $age"
+            git push
+          fi
